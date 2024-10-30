@@ -1,0 +1,19 @@
+/* CSS Document */
+
+.format-selection-wrapper{
+}
+.format-selection-wrapper label{
+	cursor:pointer;
+}
+.format-selection-wrapper label i.fa-solid{
+	display:none;
+}
+.format-selection-wrapper label input[name="format"]{
+	display:none;
+}
+.format-selection-wrapper label.selected i.fa-solid{
+	display:inline-block;
+}
+.format-selection-wrapper label.selected i.fa-regular{
+	display:none;
+}

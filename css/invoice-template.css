@@ -1,0 +1,138 @@
+/* CSS Document */
+body {
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+
+
+.ab_pdf_table tr.gap td{
+
+
+
+    height: 35px;
+
+    vertical-align: top;
+
+
+
+}
+
+
+
+.ab_pdf_table tr.footer_gap td{
+
+
+
+    height: 50px;
+
+
+
+}
+
+
+
+.subtotal_head{
+
+
+
+    width:59%;
+
+}
+
+
+
+.subtotal_row{
+
+    color:#424242;
+
+    border-bottom: 1px solid lightgrey;
+
+    padding: 10px 0 10px 0;
+
+}
+
+.subtotal_val{
+
+
+
+    width:36%;
+
+}
+
+.ab_pdf_table .subtotal_val{
+
+    text-align: right;
+
+}
+
+
+
+.ab_invoice_text{
+
+    background-color: #c1392b;
+
+    color: #ffffff;
+
+    font-weight: bold;
+
+    width: 15%;
+
+
+
+}
+
+
+
+.ab_unique_id{
+
+	color: #727272;
+
+	font-size: 14px;
+
+}
+
+
+
+.ab_title{
+
+	width: 30%;
+
+	display: inline-block;
+
+	vertical-align: top;
+
+}
+
+
+
+.ab_value{
+
+	width: 69%;
+
+	display: inline-block;
+
+}
+
+
+
+.ab_row{
+
+	padding: 10px 0;
+
+}
+
+.logo-section{
+	width: 100%; 
+	color:#5c5c5c; 
+	text-decoration:none;
+}
+.logo-section img{
+	max-height:200px; 
+	margin:40px 0 0 0;
+}
+
+

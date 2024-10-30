@@ -1,0 +1,65 @@
+.in_pr_settings_div .hide,
+#menu-posts-invoicepress{
+    display:none;
+}
+
+.in_pr_settings_div .modal{
+    background: black;
+    opacity: 0.5;
+}
+
+.in_pr_settings_div a.nav-tab {
+	cursor: pointer;
+}
+.in_pr_settings_div a.nav-tab.nav-tab-active{
+}
+.in_pr_settings_div a.nav-tab.nav-tab-active i{
+	color:gold;
+}
+
+.search-wc-order-wrapper {
+	margin: 10px auto 60px;
+	width: 100%;
+	border-bottom: 1px solid #ccc;
+	padding: 0 0 24px;
+	text-align: center;
+	
+}
+.search-wc-order-wrapper .search-wc-order {
+	width: 220px;
+	margin: 0 auto;
+	position:relative;
+	display: flex;
+}
+div.search-wc-order label[for="wc_order_id"] {	
+	text-align:center;
+	width: 180px;
+	position:relative;
+	float:left;
+}
+div.search-wc-order #wc_order_id {
+	background-image: url("../images/wc.png");
+	background-repeat: no-repeat;
+	background-position: 12px 2px;
+	border-radius: 18px;
+	padding: 0 0 0 52px;
+	width: 100%;
+}
+div.search-wc-order a {
+	background-color: #9B5C8F;
+	width: 34px;
+	height: 34px;
+	color: #fff;
+	border-radius: 18px;
+	cursor: pointer;
+	float:left;
+	display:block;
+}
+div.search-wc-order a svg,
+div.search-wc-order a i {
+	color: #fff;
+	font-size: 34px;
+}
+.ab_preset_list_content tbody tr * {
+	font-size: 14px;
+}

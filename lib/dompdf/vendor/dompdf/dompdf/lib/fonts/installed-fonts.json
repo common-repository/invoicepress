@@ -1,0 +1,19 @@
+{
+    "font awesome 6 brands": {
+        "normal": "font_awesome_6_brands_normal_39815e15dbbf0b830657db859fdf1f6e"
+    },
+    "font awesome 6 free": {
+        "normal": "K:\\wamp\\www\\invoicepress.com\\wp-content\\plugins\\invoicepress\\lib\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_6_free_normal_3f525d5bb38af95dd117310dfdc05d16",
+        "900": "font_awesome_6_free_900_69e72b28513846c0cc9bcffad177847c"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_39815e15dbbf0b830657db859fdf1f6e"
+    },
+    "font awesome 5 free": {
+        "900": "K:\\wamp\\www\\invoicepress.com\\wp-content\\plugins\\invoicepress\\lib\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_5_free_900_69e72b28513846c0cc9bcffad177847c",
+        "normal": "font_awesome_5_free_normal_3f525d5bb38af95dd117310dfdc05d16"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_69cedae103eb41fa9084693ef36c2708"
+    }
+}
